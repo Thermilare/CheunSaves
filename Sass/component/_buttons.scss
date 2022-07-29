@@ -1,0 +1,11 @@
+@use "../colors" as *;
+
+@mixin navBtn {
+   background-color: $buttonColor;
+    border-radius: 40px;
+    padding: 0;  
+}
+
+.navBtn {
+    @include navBtn;
+}

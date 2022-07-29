@@ -1,6 +1,7 @@
 @use "./colors" as *;
 @use "./component/navbar" as *;
-
+@use "./component/buttons" as *;
+@use "./component/footer" as *;
 * {
     margin: 0;
     padding: 0;
@@ -8,18 +9,7 @@
 } 
 
 
-.heroText{
-    width: 30rem;
-    text-align:start;
-    margin: 2rem;   
-}
 
 
 
-.ourServices{
-    background-color: rgba(15, 132, 111, 0.2);
-}
 
-.footer{
-    background-color: rgba(4, 50, 59, 0.8);
-}

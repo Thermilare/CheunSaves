@@ -1,1 +1,1 @@
-{"version":3,"sources":["_colors.scss","styles.scss"],"names":[],"mappings":"AAOA,KACI,wBARQ,CCGZ,EACI,QAAA,CACA,SAAA,CACA,qBAAA,CAIJ,UACI,WAAA,CACA,gBAAA,CACA,WAAA,CAKJ,aACI,oCAAA,CAGJ,QACI,iCAAA","file":"styles.min.css"}
+{"version":3,"sources":["_colors.scss","component/_buttons.scss","component/_footer.scss","styles.scss"],"names":[],"mappings":"AAOA,KACI,wBARQ,CAYZ,aACI,oCAAA,CAGJ,QACI,iCAfY,CCMhB,QALG,wBAAA,CACC,kBAAA,CACA,SAAA,CAAA,QCCA,iCFJY,CGEhB,EACI,QAAA,CACA,SAAA,CACA,qBAAA","file":"styles.min.css"}

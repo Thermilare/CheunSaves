@@ -2,23 +2,27 @@ body {
   background-color: #E6F4F1;
 }
 
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-.heroText {
-  width: 30rem;
-  text-align: start;
-  margin: 2rem;
-}
-
 .ourServices {
   background-color: rgba(15, 132, 111, 0.2);
 }
 
 .footer {
   background-color: rgba(4, 50, 59, 0.8);
+}
+
+.navBtn {
+  background-color: #0F846F;
+  border-radius: 40px;
+  padding: 0;
+}
+
+.footer {
+  background-color: rgba(4, 50, 59, 0.8);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 /*# sourceMappingURL=styles.css.map */
